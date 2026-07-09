@@ -1,9 +1,4 @@
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/images/logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset=".github/images/logo-light.png">
-  <img src=".github/images/logo-light.png" width="240" alt="GJSON" >
-</picture>
 <br>
 <a href="https://godoc.org/github.com/tidwall/gjson"><img src="https://img.shields.io/badge/api-reference-blue.svg?style=flat-square" alt="GoDoc"></a>
 <a href="https://tidwall.com/gjson-play"><img src="https://img.shields.io/badge/%F0%9F%8F%90-playground-9900cc.svg?style=flat-square" alt="GJSON Playground"></a>
